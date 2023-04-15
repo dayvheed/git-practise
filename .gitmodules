@@ -1,0 +1,3 @@
+[submodule "trash-classification"]
+	path = trash-classification
+	url = git@github.com:dayvheed/trash-classification.git
